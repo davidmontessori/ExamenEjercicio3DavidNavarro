@@ -1,2 +1,2 @@
-libro 1 10/10
-libro 2 10/10
+libro 1
+libro 2
