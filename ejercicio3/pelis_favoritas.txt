@@ -1,2 +1,6 @@
-peli 1 peli 2
+
 peli 3
+
+peli 1 10/10
+peli 2 10/10
+
